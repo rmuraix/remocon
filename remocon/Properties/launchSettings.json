@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "remocon (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "remocon (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
